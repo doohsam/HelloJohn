@@ -1,1 +1,0 @@
-A test to get up and running on GitHub
